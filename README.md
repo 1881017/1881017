@@ -3,11 +3,12 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Cloud Computing Service 
 
+
 <!---
 1881017/1881017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+# Thông tin kết quả thi
 <!-- BLOG-POST-LIST:START -->
 - [Kết quả thi giữa kỳ HK2/20-21 các lớp CKH và Hóa VP](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/425-k-t-qu-thi-gi-a-ky-hk2-20-21-cac-l-p-ckh-va-hoa-vp)
 - [Kết quả thi giữa kỳ HK2/20-21 hệ ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/424-k-t-qu-thi-gi-a-ky-hk2-20-21-h-dhcq)
